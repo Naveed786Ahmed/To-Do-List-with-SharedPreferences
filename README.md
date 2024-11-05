@@ -5,7 +5,7 @@
 
 Requirements:
 <ul>
-  <liDependencies: shared_preferences for data storage.</li>
+  <li>Dependencies: shared_preferences for data storage.</li>
   <li>Flutter SDK: Ensure Flutter is installed.</li>
 </ul>
 
