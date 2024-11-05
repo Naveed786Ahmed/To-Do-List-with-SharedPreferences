@@ -1,16 +1,11 @@
-# todo_list
+<h1>Task: To-Do List with SharedPreferences</h1>
 
-A new Flutter project.
+<h5>Purpose:</h5>
+<p>This task creates a to-do list app using SharedPreferences to save tasks persistently.</p>
 
-## Getting Started
+Requirements:
+<ul>
+  <liDependencies: shared_preferences for data storage.</li>
+  <li>Flutter SDK: Ensure Flutter is installed.</li>
+</ul>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
